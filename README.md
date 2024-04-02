@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amitsurjo57
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C++, Java and Python
+- 🌱 I have skills in C++, Java and Flutter
 - 💞️ I’m looking to collaborate on Software Companies
 - 📫 How to reach me: I link my Facebook and Linkedin account to my github profile. Please check out.
 
